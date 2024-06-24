@@ -1,0 +1,33 @@
+- title: HOME
+  url: /
+- title: PROGRAM
+  items:
+     - title: Schedule
+       url : https://owasp2024globalappsecsanfra.sched.com/
+     - title: Training
+       url : /trainings/
+#    - title: Event Images
+#      url : /media/
+     - title: Call for Trainers - CLOSED
+       url: https://owasp.submittable.com/submit/291886/2024-global-appsec-san-francisco-cft
+     - title: Call for Papers 
+       url: https://owasp.submittable.com/submit/296405/2024-owasp-global-appsec-sf-cfp 
+- title: EXHIBIT & SPONSOR 
+  items:
+     - title: Exhibitor & Sponsorship Prospectus 
+       url: https://owasp.wufoo.com/forms/global-appsec-san-fran-exhibit-sponsor-interest/
+    #- title: Exhibitors & Sponsors
+    #  url: 
+    #- title: Exhibitor Kit
+    # url: /exhibitordetails/
+- title: ABOUT
+  #url: /about/
+  items:
+  #  - title: Volunteer
+  #    url: /volunteer/
+    - title: OWASP Merchandise
+      url: https://owasp.org/store
+- title: Hotel Booking 
+  url: https://www.hyatt.com/en-US/group-booking/SFORS/G-OW24/OWASP
+- title: Event Code of Conduct
+  url: /event/codeofconduct/
