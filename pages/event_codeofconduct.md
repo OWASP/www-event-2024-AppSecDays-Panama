@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /event/codeofconduct/
 
 ---
-**2024 Global AppSec San Francisco Event Code of Conduct**
+**Global AppSec Days Panamá 2024 Event Code of Conduct**
 
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree to the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 

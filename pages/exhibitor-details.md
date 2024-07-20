@@ -26,7 +26,7 @@ This confirmation packet provides important information including preparing for 
 
 **Preparing You and Your Team**
 + REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed to all paid exhibitors and sponsors.
-+ BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022 attendees and exhibitors. To book a room at the conference hotel please use [this link](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1).
++ BOOK HOTEL: OWASP has a room block for Global AppSec Days Panamá 2024 attendees and exhibitors. To book a room at the conference hotel please use [this link](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1).
 + Full Conference Passes includes: Coffee, breakfast, and lunch on Thursday, November 17th & Friday, Novmeber 18th, access to the conference talks & expo area, social events, and conference activities.
 + Expo Only Passes include: Coffee, breakfast, and lunch on Thursday November 17th & Friday, November 18th, access to the expo area and Networking Reception on Thursday evening. It does NOT INCLUDE: access to the conference talks.
 
@@ -38,13 +38,7 @@ This confirmation packet provides important information including preparing for 
 + Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)
 
 **Preparing for the Conference**
-+ Event Location: Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States, phone: +1-415-788-1234
-+ Vendor Check-in and Set-up : Wednesday, November 16th 1pm-5pm
-+ Exhibitor Area Hours:
-+ Thursday Novmeber 17th 8am-7:30pm
-+ Friday, November 18th 8am-5:30pm
-+ Vendor Tear Down: Friday, November 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
-+ Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
+
 
 **Conference Schedule**
 Details on the event schedule can be found [here](https://owasp2022globalappsecsf.sched.com/)
@@ -53,7 +47,7 @@ Details on the event schedule can be found [here](https://owasp2022globalappsecs
 For booth materials, A/V, furniture and shipping & receiving to and after the show, you will work directly with [Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf).
 
 **Lead Retrieval**
-1stSales is the official lead retrieval company for Global AppSec San Francisco 2022. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK).
+1stSales is the official lead retrieval company for Global AppSec Days Panamá 2024. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK).
 
 Exhibitors receive unlimited complimentary lead scanner app with their exhibiting sponsorship. Although the app is complimentary, you still must secure your app directly from 1stSales. Hand-held scanners may be rented directly from 1stSales for an additional fee. 
 
@@ -75,14 +69,12 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
 + Freight, A/V & Furniture Needs - Freeman
 + Booth Electricity - Freeman
-+ [Freeman](https://www.freemanco.com/store/faqs#contactUS) Phone: +1-800-995-3579
++ [Freeman](https://www.freemanco.com/store/faqs#contactUS) Phone: +507
 
-**Details at a Glance**
-+ Exhibit Show Dates & Hours
-+ Thursday, November 17 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) & Friday, Novmeber 18 8am-5:30pm 
+m 
 
 **Show Location**
-+ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States Phone +1 415 788 1234
++ USMA University in Panamá City, PA
 
 **OTHER QUESTIONS?** 
 + Is there something we missed? Please Contact Us at events@owasp.com 

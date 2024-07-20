@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2024
+title: Global AppSec Days Panamá 2024
 layout: event-x
 
 ---

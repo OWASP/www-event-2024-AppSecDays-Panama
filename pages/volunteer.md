@@ -34,9 +34,9 @@ Global AppSec volunteers are expected to implement the following functions durin
 
 **Preparing for the Conference**
 + [Register](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877): It is critical that you register. Discount codes will be distributed to confirmed volunteers.
-+ [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1): OWASP has a room block for Global AppSec San Francisco 2022. To book a room at the conference hotel use the link above.
++ [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1): OWASP has a room block for Global AppSec Days Panamá 2024. To book a room at the conference hotel use the link above.
 + Full Conference Passes include: Coffee and lunch on Thursday, Novmeber 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
 
 **Event Location** 
-+ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States
++ Panamá City, Panamá. USMA Universty, sep 11-13.
 

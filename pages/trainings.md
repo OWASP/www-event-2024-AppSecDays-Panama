@@ -10,12 +10,11 @@ permalink: /trainings/
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
 ## Pricing
-1-day course : $850<br>
-2-day course: $1770<br>
-3-day course: $2550<br>
+1-day course : $freebr>
+2-day course: $free<br>
 
-All training will be held at the Hyatt Regency San Francisco 5 Embarcadero Center
-San Francisco, California 94111 United States. 
+
+Global AppSec Days Panamá 2024
 <br><br>
 3-day training courses will be held September 23-25<br>
 2-day training courses will be held September 24-25<br>
