@@ -3,17 +3,17 @@
 - title: PROGRAM
   items:
      - title: Schedule
-       url : https://owasp2024globalappsecsanfra.sched.com/
+       url : https://owasp2024appsecpanama.sched.com/
      - title: Training
        url : /trainings/
 #    - title: Event Images
 #      url : /media/
-     - title: Call for Trainers -CLOSED
-       url: https://owasp.submittable.com/submit/291886/2024-global-appsec-san-francisco-cft
-     - title: Call for Papers - CLOSED
-       url: https://owasp.submittable.com/submit/296405/2024-owasp-global-appsec-sf-cfp 
-     - title: Sample CFP submissions
-       url: https://docs.google.com/document/d/1m_IroyqjYwGL-8arwAxY-aDxWCH_3xda0BjNytkvaQ0/edit
+#     - title: Call for Trainers -CLOSED
+#       url: https://owasp.submittable.com/submit/291886/2024-global-appsec-san-francisco-cft
+#     - title: Call for Papers - CLOSED
+#       url: https://owasp.submittable.com/submit/296405/2024-owasp-global-appsec-sf-cfp 
+#     - title: Sample CFP submissions
+#       url: https://docs.google.com/document/d/1m_IroyqjYwGL-8arwAxY-aDxWCH_3xda0BjNytkvaQ0/edit
 - title: EXHIBIT & SPONSOR 
   items:
      - title: Exhibitor & Sponsorship Prospectus 
@@ -26,11 +26,11 @@
 - title: ABOUT
   #url: /about/
   items:
-    - title: Volunteer
-      url: https://owasp.wufoo.com/forms/zhqce260trh5ox/
+#    - title: Volunteer
+#      url: https://owasp.wufoo.com/forms/zhqce260trh5ox/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-- title: Hotel Booking 
-  url: https://www.hyatt.com/en-US/group-booking/SFORS/G-OWS4
-- title: Event Code of Conduct
-  url: /event/codeofconduct/
+#- title: Hotel Booking 
+#  url: https://www.hyatt.com/en-US/group-booking/SFORS/G-OWS4
+#- title: Event Code of Conduct
+# url: /event/codeofconduct/
