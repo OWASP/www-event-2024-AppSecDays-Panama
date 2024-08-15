@@ -1,253 +1,43 @@
- - logo: /assets/images/sponsors/AppSentinels.jpg
-   name: AppSentinels
-   url: https://appsentinels.ai/
+ - logo: /assets/images/sponsors/usma.png
+   name: USMA
+   url: https://usma.ac.pa/
+   backgroundSize: 125px
+   type: Diamond
+ - logo: /assets/images/sponsors/layer8.png
+   name: Layer8
+   url: https://www.layer8.pe/
+   backgroundSize: 125px
+   type: Gold
+ - logo: /assets/images/sponsors/ehc.png
+   name: EthicalHackingConsultores
+   url: https://www.layer8.pe/
+   backgroundSize: 125px
+   type: Gold
+ - logo: /assets/images/sponsors/apandetec.svg
+   name: apandetec
+   url: https://www.apandetec.org/
+   backgroundSize: 125px
+   type: Gold
+ - logo: /assets/images/sponsors/itsf.png
+   name: IT-SF
+   url: https://it-sf.com.co/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/YourLogoHere.png
+   name: SolucionesSeguras
+   url: https://www.solucionesseguras.com/
    backgroundSize: 125px
    type: Start-up
- - logo: /assets/images/sponsors/Deepfactor.png
-   name: Deepfactor
-   url: https://www.deepfactor.io/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/Endor.svg
-   name: EndorLabs
-   url: https://www.endorlabs.com/
+ - logo: /assets/images/sponsors/YourLogoHere.png
+   name: YourLogoHere
+   url: https://www.layer8.pe/
    backgroundSize: 125px
    type: Start-up
- - logo: /assets/images/sponsors/GitGuardian.svg
-   name: GitGuardian
-   url: https://www.gitguardian.com/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/IriusRiskNEWlogo.png
-   name: IriusRisk
-   url: https://www.iriusrisk.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Mend.png
-   name: Mend
-   url: https://www.mend.io/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/OX_Security.png
-   name: Ox Security
-   url: https://www.ox.security/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/Phoenix.png
-   name: Phoenix Security
-   url: https://phoenix.security/
+ - logo: /assets/images/sponsors/YourLogoHere.png
+   name: YourLogoHere
+   url: https://www.layer8.pe/
    backgroundSize: 125px
    type: Start-up
- - logo: /assets/images/sponsors/SecureLayer7.png
-   name: SecureLayer7
-   url: https://securelayer7.net/home
-   backgroundSize: 125px
-   type: Start-up
- - logo: /assets/images/sponsors/Synopsys.png
-   name: Synopsys
-   url: https://www.synopsys.com/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/Akto.png
-   name: Akto
-   url: https://www.akto.io/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Mobb.jpeg
-   name: Mobb
-   url: https://mobb.ai/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/ArmorCode.png
-   name: ArmorCode
-   url: https://www.armorcode.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Corellium.png
-   name: Corellium
-   url: https://www.corellium.com/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/Nokod_logo.png
-   name: Nokod Security
-   url: https://nokodsecurity.com/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Scribe.png
-   name: Scribe Security
-   url: https://scribesecurity.com/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/apiiro_logo_for_owasp.png
-   name: Apiiro
-   url: https://apiiro.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/Bright Security.png
-   name: Bright Security
-   url: https://brightsec.com/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/HounddogLogo.png
-   name: HoundDog.ai
-   url: https://hounddog.ai/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Arnica_Logo.png
-   name: Arnica
-   url: https://www.arnica.io/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Cobalt.png
-   name: Cobalt.io
-   url: https://www.cobalt.io/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/CycodeLogo.png
-   name: Cycode
-   url: https://cycode.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/GuidePointSecurity.png
-   name: Guidepoint
-   url: https://www.guidepointsecurity.com/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/Oligo.svg
-   name: Oligo Security
-   url: https://www.oligo.security/
-   backgroundSize: 125px
-   type: Gold
- - logo: /assets/images/sponsors/Verimatrix.png
-   name: Verimatrix
-   url: https://www.verimatrix.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Appdome.png
-   name: Appdome
-   url: https://www.appdome.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Adobe_logo.png
-   name: Adobe
-   url: https://www.adobe.com/
-   backgroundSize: 125px
-   type: Networking Reception
- - logo: /assets/images/sponsors/Kodem.png
-   name: Kodem Security
-   url: https://www.kodemsecurity.com/
-   backgroundSize: 125px
-   type: Leaders Meeting  
- - logo: /assets/images/sponsors/Pynt.png
-   name: Pynt
-   url: https://www.pynt.io/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/Raven.png
-   name: Raven.io
-   url: https://raven.io/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/SecurityInnovation.png
-   name: Security Innovation
-   url: https://www.securityinnovation.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/SemgrepLogo.png
-   name: Semgrep
-   url: https://semgrep.dev/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Backslash-logo.png
-   name: Backslash
-   url: https://backslash.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/FOSSA.png
-   name: Fossa
-   url: https://fossa.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/PaloAlto.png
-   name: Palo Alto
-   url: https://www.paloaltonetworks.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Checkmarx-Logo-2.png
-   name: Checkmarx
-   url: https://checkmarx.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Sonatype.png
-   name: Sonatype
-   url: https://www.sonatype.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/defectdojo_logo.png
-   name: DefectDojo
-   url: https://defectdojo.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/Darwinium.jpg
-   name: Darwinium
-   url: https://www.darwinium.com/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/bugcrowd-logo-rectangle.jpg
-   name: Bugcrowd
-   url: https://www.bugcrowd.com/
-   backgroundSize: 125px
-   type: Silver
- - logo: /assets/images/sponsors/Heeler.png
-   name: Heeler
-   url: https://www.heeler.com/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Corgea.png
-   name: Corgea
-   url: https://corgea.com/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/FiniteState.jpeg
-   name: Finite State
-   url: https://finitestate.io/
-   backgroundSize: 125px
-   type: Conference Lunch Sponsor
- - logo: /assets/images/sponsors/Impart.svg
-   name: Impart Security
-   url: https://www.impart.security/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Pixee.png
-   name: Pixee
-   url: https://www.pixee.ai/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/Qwiet_Logo.jpg
-   name: Qwiet.Ai
-   url: https://qwiet.ai/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/ROOT.png
-   name: Root
-   url: https://www.root.io/
-   backgroundSize: 125px
-   type: Start-Up
- - logo: /assets/images/sponsors/securityjourney_logo_color_horz.png
-   name: Security Journey
-   url: https://www.securityjourney.com/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/Snyk.png
-   name: Snyk
-   url: https://snyk.io/
-   backgroundSize: 125px
-   type: Women in AppSec Sponsor and Conference Breakfast Sponsor
- - logo: /assets/images/sponsors/Zimperium.png
-   name: Zimperium
-   url: https://www.zimperium.com/
-   backgroundSize: 125px
-   type: OWASP Leaders Meeting/Open Bar Sponsor
-   
+       
    
    
