@@ -10,6 +10,3 @@ layout: event-x
 ***{{ site.data.event-details.venue }}***
 
 {{ site.data.event-details.pitch | markdownify }}
-
-
-

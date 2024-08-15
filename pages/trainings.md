@@ -14,11 +14,9 @@ permalink: /trainings/
 2-day course: $free<br>
 
 
-Global AppSec Days Panamá 2024
+AppSec Days Panamá 2024
 <br><br>
-3-day training courses will be held September 23-25<br>
-2-day training courses will be held September 24-25<br>
-1-day training courses will be held on September 25.
+1-day training courses will be held on September 11.
 
 <section class='training'>
 {% if site.data.trainings.size > 0 %}
