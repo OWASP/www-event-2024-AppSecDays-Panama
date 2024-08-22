@@ -12,7 +12,7 @@
    name: apandetec
    url: https://www.apandetec.org/
    backgroundSize: 125px
-   type: Diamond
+   type: Silver
  - logo: /assets/images/sponsors/layer8.png
    name: Layer8Security
    url: https://www.layer8.pe/
@@ -27,7 +27,7 @@
    name: SolucionesSeguras
    url: https://www.solucioneseguras.com
    backgroundSize: 125px
-   type: Start-up
+   type: Silver
  - logo: /assets/images/sponsors/owasppanama.png
    name: OWASP Panama
    url: https://www.owasp.org/panama
