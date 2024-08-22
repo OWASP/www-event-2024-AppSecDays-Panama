@@ -1,5 +1,5 @@
 
-<h3>Keynote Speakers</h3>
+<h3>Speakers</h3>
 <ul>
 {% for speaker in site.data.keynotespeakers %}
     {% if speaker.name %}
