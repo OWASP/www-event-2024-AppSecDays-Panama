@@ -3,12 +3,7 @@
    url: https://usma.ac.pa/
    backgroundSize: 125px
    type: Diamond
- - logo: /assets/images/sponsors/layer8.png
-   name: Layer8Security
-   url: https://www.layer8.pe/
-   backgroundSize: 125px
-   type: Diamond
- - logo: /assets/images/sponsors/ehcconsultores.svg
+ - logo: /assets/images/sponsors/ehcconsultores.png
    name: EthicalHackingConsultores
    url: https://ehcgroup.io/
    backgroundSize: 125px
@@ -17,14 +12,19 @@
    name: apandetec
    url: https://www.apandetec.org/
    backgroundSize: 125px
-   type: Gold
+   type: Diamond
+ - logo: /assets/images/sponsors/layer8.png
+   name: Layer8Security
+   url: https://www.layer8.pe/
+   backgroundSize: 125px
+   type: Diamond
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
    backgroundSize: 125px
-   type: Start-up
+   type: Diamond
  - logo: /assets/images/sponsors/soluciones.png
-   name: YourLogoHere
+   name: SolucionesSeguras
    url: https://www.solucioneseguras.com
    backgroundSize: 125px
    type: Start-up
@@ -36,7 +36,7 @@
  - logo: /assets/images/sponsors/owasplima.png
    name: OWASP Lima
    url: https://www.owasp.org/lima
-   backgroundSize: 125px
+   backgroundSize: 160px
    type: Start-up
  - logo: /assets/images/sponsors/owaspuruguay.png
    name: OWASP Uruguay
