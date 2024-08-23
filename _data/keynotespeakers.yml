@@ -1,16 +1,57 @@
- - image: TBD.jpg
-   name: Msc. John Roberth Correa
-   title: TBD
-   bio: >- 
-        Profesional en electrónica, máster universitario en seguridad de las tecnologías de la información y de las comunicaciones, doctor en Sistemas de Información PhD en la Universidad de las Américas y del Caribe México, con amplia experiencia en seguridad de la información y las comunicaciones e implementación de modelos estratégicos de ciberseguridad de la información, Cyberjudicial Expert Perito Ciberjudicial (The Center for Cybercrime Investigation & Cybersecurity (Center for CIC) y Hacker Ético.
-#  subject: 
-   abstract: >-
-       TBD
+
  - image: jtibaquira.jpeg
    name: Jacobo Tibaquirá
-#  title: Me fui por bug bounty mobile y esto me pasó.
+   title: Me fui por bug bounty mobile y esto me pasó.
    bio: >- 
         TBD
 #   subject: 
 #   abstract: >-
-        
+ - image: aconte.jpg
+   name: Andre Conte
+   title: 'Hackeando el Sistema {Sin Internet}.'
+   bio: >- 
+        TBD
+#   subject: 
+#   abstract: >-
+ - image: asantacruz.jpg
+   name: Angel Santa Cruz
+   title: Modelo de Madurez de Aseguramiento de Software. 
+   bio: >- 
+        TBD
+#   subject: 
+#   abstract: >
+ - image: gnina.png
+   name: Gonzalo Nina 
+   title: 'WebSecurity'
+   bio: >- 
+         Profesional en el área de seguridad informática con más de 10 años de experiencia, realizando operaciones en equipos de Red Team y de Blue Team en diferentes tipos de sectores empresariales privados y públicos. Tiene como principio que la información debe de compartirse por lo cual es expositor en distintos congresos a nivel Internacional y nacional.        
+#   subject: 
+#   abstract: >
+ - image: clima.jpg
+   name: Cristhian Lima
+   title: 'Biometría Facial: Un enfoque de seguridad.'
+   bio: >- 
+        Ingeniero de Sistemas, Chief Security Officier en Ethical Hacking Consultores Panamá, diplomados en Seguridad informática y Diplomado en Educación Superior, Certified Ethical Hacker - ECCouncil, Certified Professional Pentester – EHCGroup. Más de 7 años de experiencia  en Seguridad informática en diferentes países de Centroamérica e Instructor de diferentes cursos enfocados en seguridad informática. 
+#   subject: 
+#   abstract: >
+ - image: jvargas.png
+   name: John Vargas
+   title: 'Desmitificando S-SDLC: Enfoques Prácticos para el Desarrollo Seguro.'
+   bio: >- 
+        TBD
+#   subject: 
+#   abstract: >
+ - image: ndeavila.png
+   name: Nahum Deavila
+   title: 'Anatomía de un Ciberataque: perspectivas de un Hacker.'
+   bio: >- 
+        Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
+#   subject: 
+#   abstract: >
+ - image: esarria.jpg
+   name: Eduardo Sarria
+   title: 'Revisión Sistemática y Exhaustiva de la Seguridad de una API REST'
+   bio: >- 
+        Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
+#   subject: 
+#   abstract: >

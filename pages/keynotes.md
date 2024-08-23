@@ -13,7 +13,7 @@ permalink: /program/keynotes/
 <hr>
 		{% if speaker.name %}
 		<div>
-		    <a name="{{speaker.name}}"><img style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};"></a>
+		    <a name="{{speaker.name}}"><img style="background-image: url(/assets/images/speakers/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};"></a>
 		</div>
 		<div class='keynote-info'>
 			<a><strong>{{speaker.name}}</strong></a>
