@@ -17,10 +17,9 @@ venue:
   location: Ciudad de Panamá, USMA University
 logo:
   url: https://panama.appsecdays.org
-background:
-  image: SFHeader.png
-  style: 'linear-gradient(to right, #fff 50%, #242158 50%)'
-  padding: 0em 2em 0em 2em
+background: SFHeader.png
+background-style: 'linear-gradient(to right, #fff 50%, #242158 50%)'
+background-padding: 0em 2em 0em 2em
 design:
   keynotestextcolor: fff
   main_color: 242158
