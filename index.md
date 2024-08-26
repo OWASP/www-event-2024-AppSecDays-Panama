@@ -7,10 +7,10 @@ layout: event-x
 
 <!-- rebuild 15 -->
 
-<!-- {{ site.data.event-details.venue  | markdownify }}
+{{ site.data.event-details.venue  | markdownify }}
 
-{{ site.data.event-details.pitch | markdownify }} -->
-<div class="container">
+{{ site.data.event-details.pitch | markdownify }} 
+<!-- <div class="container">
     <div class="text-content">
         {{ site.data.event-details.pitch | markdownify }}
     </div>
@@ -25,4 +25,4 @@ layout: event-x
                 referrerpolicy="{{ site.data.event-details.map.referrerpolicy }}">
         </iframe>
     </div>
-</div>
+</div> -->
