@@ -9,7 +9,7 @@ permalink: /sponsors/
 # {{ page.title }}
 We would like to recognize our sponsors and exhibitors: 
 {% if site.data.sponsors.size > 0 %}
-{% assign diamond_plus = site.data.sponsors | where: "type", "Appsec Sponsor" | sort: "name" %}
+{% assign appsec = site.data.sponsors | where: "type", "Appsec Sponsor" | sort: "name" %}
 {% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
 {% assign golds = site.data.sponsors | where: "type", "Gold" | sort: "name" %}
 {% assign silvers = site.data.sponsors | where: "type", "Silver" | sort: "name" %}
