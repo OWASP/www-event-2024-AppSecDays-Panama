@@ -3,35 +3,35 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: #f0f0f0; /* Color azul */
+    background-color: #f0f0f0; /* Color de fondo nuevo */
     padding: 20px;
 }
 
 .speakers-container li {
-    flex: 1 0 21%; /* Ocupa aproximadamente el 21% del ancho, ajusta según sea necesario */
+    flex: 1 0 21%; /* Ajuste de ancho */
     margin: 10px;
     list-style-type: none;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .keynote-img {
     display: block;
     width: 100%;
-    height: 200px; /* Ajusta la altura según tus necesidades */
+    height: 160px; /* Ajusta la altura según sea necesario */
     background-size: cover;
     background-position: center;
-    position: relative;
+    margin-bottom: 10px; /* Añadir espacio entre la imagen y el nombre */
 }
 
 h4 {
-    color: white; /* Ajusta el color del texto */
-    margin-top: 10px;
-    position: relative;
-    z-index: 10;
-    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para mayor legibilidad */
+    color: white; /* Color de texto blanco */
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para legibilidad */
     padding: 5px;
-    display: inline-block;
-    width: 100%; /* Hace que el nombre abarque el ancho de la imagen */
+    margin: 0;
+    width: 100%; /* Ajuste al ancho de la imagen */
     box-sizing: border-box;
 }
 </style>
