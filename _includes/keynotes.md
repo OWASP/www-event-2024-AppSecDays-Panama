@@ -28,7 +28,7 @@
 
 h3 {
     background-color: #f0f0f0; /* Cambia el color de fondo azul a otro color */
-    color: black; /* Cambia el color del texto si es necesario */
+    color: #333; /* Cambia el color del texto si es necesario */
     padding: 10px;
     text-align: center;
 }
