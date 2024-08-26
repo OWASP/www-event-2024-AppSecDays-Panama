@@ -9,8 +9,8 @@ permalink: /sponsors/
 # {{ page.title }}
 We would like to recognize our sponsors and exhibitors: 
 {% if site.data.sponsors.size > 0 %}
-{% assign diamond_plus = site.data.sponsors | where: "type", "Appsec Sponsors" | sort: "name" %}
-<!-- {% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
+{% assign diamond_plus = site.data.sponsors | where: "type", "Appsec Sponsor" | sort: "name" %}
+{% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
 {% assign golds = site.data.sponsors | where: "type", "Gold" | sort: "name" %}
 {% assign silvers = site.data.sponsors | where: "type", "Silver" | sort: "name" %}
 {% assign lunch = site.data.sponsors | where: "type", "Lunch Sponsor" | sort: "name" %}
@@ -18,7 +18,7 @@ We would like to recognize our sponsors and exhibitors:
 {% assign network = site.data.sponsors | where: "type", "Networking Reception Sponsor" | sort: "name" %}
 {% assign keynote = site.data.sponsors | where: "type", "Keynote Sponsor" | sort: "name" %}
 {% assign lanyard = site.data.sponsors | where: "type", "Lanyard Sponsor" | sort: "name" %}
-{% assign hotel = site.data.sponsors | where: "type", "Hotel Key Cards Sponsor" | sort: "name" %} -->
+{% assign hotel = site.data.sponsors | where: "type", "Hotel Key Cards Sponsor" | sort: "name" %} 
 {% assign event = site.data.sponsors | where: "type", "Event Supporter" | sort: "name" %}
 
 <section class='member'>
