@@ -17,22 +17,22 @@
    name: Layer8Security
    url: https://www.layer8.pe/
    backgroundSize: 125px
-   type: Sponsors
+   type: appsec
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
    backgroundSize: 150px
-   type: Sponsors
+   type: appsec
  - logo: /assets/images/sponsors/soluciones.png
    name: SolucionesSeguras
    url: https://www.solucioneseguras.com
    backgroundSize: 125px
-   type: Sponsors
+   type: appsec
 - logo: /assets/images/sponsors/esconsulting.png
    name: ES Consulting
    url: https://www.es.consulting/
    backgroundSize: 125px
-   type: Sponsors
+   type: appsec
  - logo: /assets/images/sponsors/owasppanama.png
    name: OWASP Panama
    url: https://www.owasp.org/panama

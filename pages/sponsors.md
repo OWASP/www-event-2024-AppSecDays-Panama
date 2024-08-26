@@ -9,7 +9,7 @@ permalink: /sponsors/
 # {{ page.title }}
 We would like to recognize our sponsors and exhibitors: 
 {% if site.data.sponsors.size > 0 %}
-{% assign diamond_plus = site.data.sponsors | where: "type", "Sponsors" | sort: "name" %}
+{% assign diamond_plus = site.data.sponsors | where: "type", "Appsec Sponsors" | sort: "name" %}
 <!-- {% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
 {% assign golds = site.data.sponsors | where: "type", "Gold" | sort: "name" %}
 {% assign silvers = site.data.sponsors | where: "type", "Silver" | sort: "name" %}
@@ -24,16 +24,16 @@ We would like to recognize our sponsors and exhibitors:
 <section class='member'>
 <div class='member-wrapper'>
 <section class='member-list'>
-<h3>Sponsors Exhibitors</h3>
+<h3>Ours Sponsors </h3>
 <div class='event_member_div'>
-{% for sponsor in sponsors %}
+{% for sponsor in appsec %}
 <a href="{{sponsor.url}}" class="member-logo"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}"></a>
 {% endfor %}
 </div>
 <br>
 <h3>Event Supporters</h3>
 <div class='event_member_div'>
-{% for sponsor in diamonds %}
+{% for sponsor in event %}
 <a href="{{sponsor.url}}" class="member-logo"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}"></a>
 {% endfor %}
 </div>
