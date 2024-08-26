@@ -54,7 +54,7 @@
    name: Leandro Espinoza
    title: 'Ciberseguridad: Hacking Ciberataques y Mitigación en una era digital.'
    bio: >- 
-        Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
+        
 #   subject: 
 #   abstract: >
  - image: mferreira.png
@@ -68,7 +68,7 @@
    name: Carlos Ganoza
    title: 'Biometría Facial: Un enfoque de seguridad.'
    bio: >- 
-        Ingeniero de Sistemas, Chief Security Officier en Ethical Hacking Consultores Panamá, diplomados en Seguridad informática y Diplomado en Educación Superior, Certified Ethical Hacker - ECCouncil, Certified Professional Pentester – EHCGroup. Más de 7 años de experiencia  en Seguridad informática en diferentes países de Centroamérica e Instructor de diferentes cursos enfocados en seguridad informática. 
+        Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado nacional e internacional. Actualmente Lidero la estrategia de ciberseguridad de una importante institución financiera del Perú, soy Chapter Leader del capítulo de OWASP Lima, y colaboro activamente en  proyectos de código abierto sobre seguridad.
 #   subject: 
 #   abstract: >
  - image: lponce.png
@@ -80,16 +80,16 @@
 #   abstract: >
  - image: rricapa.png
    name: Ruben Ricapa
-   title: 'Revisión Sistemática y Exhaustiva de la Seguridad de una API REST'
+   title: 'Taller:Pentesting de Aplicaciones Web'
    bio: >- 
         Actualmente Pentester en Layer 8 Security.
 #   subject: 
 #   abstract: >
  - image: grodriguez.png
-   name: Eduardo Sarria
-   title: 'Revisión Sistemática y Exhaustiva de la Seguridad de una API REST'
+   name: Gabriel Rodriguez
+   title: 'Taller:Pentesting de Aplicaciones Web'
    bio: >- 
-          Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
+          Actualmente Pentester en Layer 8 Security.
   #   subject: 
   #   abstract: >
  - image: clima.png
