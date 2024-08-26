@@ -4,6 +4,7 @@
   items:
      - title: Schedule
        url : https://owaspappsecdayspanama2024.sched.com/list/simple/
+       external: true
      - title: Speakers
        url : /speakers/
      - title: Training
@@ -24,6 +25,7 @@
        url: /sponsors/
      - title: Exhibitor & Sponsorship 
        url: https://owasp.wufoo.com/forms/global-appsec-sf-exhibitor-sponsor-interest/
+       external: true
            
 - title: ABOUT
   #url: /about/
