@@ -1,11 +1,3 @@
-
- - image: jtibaquira.png
-   name: Jacobo Tibaquirá
-   title: Me fui por bug bounty mobile y esto me pasó.
-   bio: >- 
-        
-#   subject: 
-#   abstract: >-
  - image: aconte.png
    name: Andre Conte
    title: 'Hackeando el Sistema {Sin Internet}.'
@@ -35,6 +27,13 @@
         TBD
 #   subject: 
 #   abstract: >
+ - image: jtibaquira.png
+   name: Jacobo Tibaquirá
+   title: Me fui por bug bounty mobile y esto me pasó.
+   bio: >- 
+        
+#   subject: 
+#   abstract: >-
  - image: ndeavila.png
    name: Nahum Deavila
    title: 'Anatomía de un Ciberataque: perspectivas de un Hacker.'
