@@ -13,7 +13,7 @@
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
-   backgroundSize: 150px
+   backgroundSize: 200px
    type: Appsec Sponsor
 
  - logo: /assets/images/sponsors/soluciones.png
@@ -37,7 +37,7 @@
  - logo: /assets/images/sponsors/owasplima.png
    name: OWASP Lima
    url: https://www.owasp.org/lima
-   backgroundSize: 160px
+   backgroundSize: 220px
    type: Event Supporter
 
  - logo: /assets/images/sponsors/owaspuruguay.png
@@ -49,7 +49,7 @@
  - logo: /assets/images/sponsors/apandetec.png
    name: apandetec
    url: https://www.apandetec.org/
-   backgroundSize: 125px
+   backgroundSize: 220px
    type: Event Supporter 
 
  - logo: /assets/images/sponsors/usma.png
