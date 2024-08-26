@@ -1,14 +1,21 @@
-#conferenceteam:
-#staff: 
-  #- name: Mike McCamon 
-    #role: Executive Director
-    #image: staff_mike.jpg
-  #- name: Harold Blankenship
-    #role: Director of Technology and Projects
-    #image: staff_harold.jpg
-  #- name: Emily Berman
-    #role: Director of Events
-    #image: staff_emily.jpg
+conferenceteam:
+  - name: Mike McCamon 
+    role: Executive Director
+    image: staff_mike.jpg
+  - name: Harold Blankenship
+    role: Director of Technology and Projects
+    image: staff_harold.jpg
+
+staff: 
+  - name: Mike McCamon 
+    role: Executive Director
+    image: staff_mike.jpg
+  - name: Harold Blankenship
+    role: Director of Technology and Projects
+    image: staff_harold.jpg
+  - name: Emily Berman
+    role: Director of Events
+    image: staff_emily.jpg
   #- name: Kelly Santalucia
     #role: Director of Corporate Support
     #image: staff_kelly.jpg

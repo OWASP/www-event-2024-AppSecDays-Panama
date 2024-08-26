@@ -4,8 +4,10 @@
   items:
      - title: Schedule
        url : https://owaspappsecdayspanama2024.sched.com/list/simple/
-#     - title: Training
-#       url : /trainings/
+     - title: Speakers
+       url : /speakers/
+     - title: Training
+       url : /trainings/
 #    - title: Event Images
 #      url : /media/
 #     - title: Call for Trainers -CLOSED
@@ -16,21 +18,21 @@
 #       url: https://docs.google.com/document/d/1m_IroyqjYwGL-8arwAxY-aDxWCH_3xda0BjNytkvaQ0/edit
 - title: EXHIBIT & SPONSOR 
   items:
-     - title: Exhibitor & Sponsorship Prospectus 
+     - title: Sponsors
+       url: /sponsors/
+     - title: Exhibitor & Sponsorship 
        url: https://owasp.wufoo.com/forms/global-appsec-sf-exhibitor-sponsor-interest/
-    #- title: Exhibitors & Sponsors
-    #  url: 
-     - title: Pre-Event Exhibitor Kit
-       url: /assets/images/2024GlobalAppSecSanFranciscoExhibitorPre-Event Kit.pdf
-
+           
 - title: ABOUT
   #url: /about/
   items:
-#    - title: Volunteer
-#      url: https://owasp.wufoo.com/forms/zhqce260trh5ox/
+    - title: Team
+      url: /team/
     - title: OWASP Merchandise
       url: https://owasp.org/store
 #- title: Hotel Booking 
 #  url: https://www.hyatt.com/en-US/group-booking/SFORS/G-OWS4
 #- title: Event Code of Conduct
 # url: /event/codeofconduct/
+#    - title: Volunteer
+#      url: https://owasp.wufoo.com/forms/zhqce260trh5ox/
