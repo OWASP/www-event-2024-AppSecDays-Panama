@@ -2,52 +2,52 @@
    name: USMA
    url: https://usma.ac.pa/
    backgroundSize: 125px
-   type: Diamond
+   type: Event Supporter
  - logo: /assets/images/sponsors/ehconsultores.png
    name: EthicalHackingConsultores
    url: https://ehcgroup.io/
    backgroundSize: 125px
-   type: Diamond
+   type: Sponsors
  - logo: /assets/images/sponsors/apandetec.png
    name: apandetec
    url: https://www.apandetec.org/
    backgroundSize: 125px
-   type: Silver
+   type: Event Supporter
  - logo: /assets/images/sponsors/layer8.png
    name: Layer8Security
    url: https://www.layer8.pe/
    backgroundSize: 125px
-   type: Diamond
+   type: Sponsors
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
    backgroundSize: 150px
-   type: Diamond
+   type: Sponsors
  - logo: /assets/images/sponsors/soluciones.png
    name: SolucionesSeguras
    url: https://www.solucioneseguras.com
    backgroundSize: 125px
-   type: Silver
+   type: Sponsors
 - logo: /assets/images/sponsors/esconsulting.png
    name: ES Consulting
    url: https://www.es.consulting/
    backgroundSize: 125px
-   type: Silver
+   type: Sponsors
  - logo: /assets/images/sponsors/owasppanama.png
    name: OWASP Panama
    url: https://www.owasp.org/panama
    backgroundSize: 125px
-   type: Start-up
+   type: Event Supporter
  - logo: /assets/images/sponsors/owasplima.png
    name: OWASP Lima
    url: https://www.owasp.org/lima
    backgroundSize: 160px
-   type: Start-up
+   type: Event Supporter
  - logo: /assets/images/sponsors/owaspuruguay.png
    name: OWASP Uruguay
    url: https://www.owasp.org/uruguay
    backgroundSize: 125px
-   type: Start-up
+   type: Event Supporter
  
 
    
