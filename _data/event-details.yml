@@ -11,10 +11,8 @@ registration:
   url: https://www.eventbrite.com/e/owasp-appsec-days-panama-tickets-867879138867
   open: true
   button_text: Register
-venue:
-  name: USMA University
-  city: Panama City
-  location: Ciudad de Panamá, USMA University
+venue: USMA University, Panama City
+location: Ciudad de Panamá, USMA University
 logo:
   url: https://panama.appsecdays.org
 background: SFHeader.png
