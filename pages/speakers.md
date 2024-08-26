@@ -1,6 +1,6 @@
 ---
 
-title: Keynotes
+title: Speakers
 layout: event_noheader
 permalink: /program/speakers/
 
