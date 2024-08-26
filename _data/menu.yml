@@ -23,10 +23,6 @@
   items:
      - title: Sponsors
        url: /sponsors/
-     - title: Exhibitor & Sponsorship 
-       url: https://owasp.wufoo.com/forms/global-appsec-sf-exhibitor-sponsor-interest/
-       external: true
-           
 - title: ABOUT
   #url: /about/
   items:
