@@ -21,11 +21,16 @@
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
-   backgroundSize: 125px
+   backgroundSize: 150px
    type: Diamond
  - logo: /assets/images/sponsors/soluciones.png
    name: SolucionesSeguras
    url: https://www.solucioneseguras.com
+   backgroundSize: 125px
+   type: Silver
+- logo: /assets/images/sponsors/esconsulting.png
+   name: ES Consulting
+   url: https://www.es.consulting/
    backgroundSize: 125px
    type: Silver
  - logo: /assets/images/sponsors/owasppanama.png
