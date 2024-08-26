@@ -6,14 +6,14 @@
         TBD
 #   subject: 
 #   abstract: >-
- - image: aconte.jpg
+ - image: aconte.png
    name: Andre Conte
    title: 'Hackeando el Sistema {Sin Internet}.'
    bio: >- 
         TBD
 #   subject: 
 #   abstract: >-
- - image: asantacruz.jpg
+ - image: asantacruz.png
    name: Angel Santa Cruz
    title: Modelo de Madurez de Aseguramiento de Software. 
    bio: >- 
@@ -27,13 +27,7 @@
          Profesional en el área de seguridad informática con más de 10 años de experiencia, realizando operaciones en equipos de Red Team y de Blue Team en diferentes tipos de sectores empresariales privados y públicos. Tiene como principio que la información debe de compartirse por lo cual es expositor en distintos congresos a nivel Internacional y nacional.        
 #   subject: 
 #   abstract: >
- - image: clima.jpg
-   name: Cristhian Lima
-   title: 'Biometría Facial: Un enfoque de seguridad.'
-   bio: >- 
-        Ingeniero de Sistemas, Chief Security Officier en Ethical Hacking Consultores Panamá, diplomados en Seguridad informática y Diplomado en Educación Superior, Certified Ethical Hacker - ECCouncil, Certified Professional Pentester – EHCGroup. Más de 7 años de experiencia  en Seguridad informática en diferentes países de Centroamérica e Instructor de diferentes cursos enfocados en seguridad informática. 
-#   subject: 
-#   abstract: >
+ 
  - image: jvargas.png
    name: John Vargas
    title: 'Desmitificando S-SDLC: Enfoques Prácticos para el Desarrollo Seguro.'
@@ -41,17 +35,46 @@
         TBD
 #   subject: 
 #   abstract: >
- - image: ndeavila.jpg
+ - image: ndeavila.png
    name: Nahum Deavila
    title: 'Anatomía de un Ciberataque: perspectivas de un Hacker.'
    bio: >- 
         Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
 #   subject: 
 #   abstract: >
- - image: esarria.jpg
+ - image: esarria.png
    name: Eduardo Sarria
    title: 'Revisión Sistemática y Exhaustiva de la Seguridad de una API REST'
    bio: >- 
+        Experto en ciberseguridad con una sólida formación académica en Ciencias de la Computación por la Universidad Nacional de Ingeniería de Lima, Perú, y múltiples certificaciones internacionales como CRTP, BSCP, eWPTXv2, eCPPTv2, y CEH - Practical. Actualmente trabaja como Senior Ethical Hacker en Falabella realizando pruebas de vulnerabilidades en microservicios y APIs, además de asesorar sobre soluciones de seguridad.
+        
+#   subject: 
+#   abstract: >
+ - image: lespinoza.png
+   name: Leandro Espinoza
+   title: 'Ciberseguridad: Hacking Ciberataques y Mitigación en una era digital.'
+   bio: >- 
         Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
+#   subject: 
+#   abstract: >
+ - image: mferreira.png
+   name: Matias Ferreira
+   title: 'OWASP API TOp 10 y el contexto actual de seguridad en software.'
+   bio: >- 
+        Actualmente trabaja como Consultor Senior en Ciberseguridad, Lugapel desde el 2022, Ingeniero en Ciencias de la Computación - Universidad Católica del Uruguay. Speaker en conferencias de Ciberseguridad.
+#   subject: 
+#   abstract: >
+- image: cganoza.png
+   name: Carlos Ganoza
+   title: 'Biometría Facial: Un enfoque de seguridad.'
+   bio: >- 
+        Ingeniero de Sistemas, Chief Security Officier en Ethical Hacking Consultores Panamá, diplomados en Seguridad informática y Diplomado en Educación Superior, Certified Ethical Hacker - ECCouncil, Certified Professional Pentester – EHCGroup. Más de 7 años de experiencia  en Seguridad informática en diferentes países de Centroamérica e Instructor de diferentes cursos enfocados en seguridad informática. 
+#   subject: 
+#   abstract: >
+ - image: lponce.png
+   name: Luis Ponce
+   title: Cómo trabajar con millones de líneas de Logs y no morir en el intento.
+   bio: >- 
+        Actualmente Lider del equipo de Blueteam en Layer 8 Security.
 #   subject: 
 #   abstract: >
