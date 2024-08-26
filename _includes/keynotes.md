@@ -26,14 +26,14 @@
     margin-bottom: 10px; /* Añadir espacio entre la imagen y el nombre */
 }
 
-h3 {
+.h3 {
     background-color: #f0f0f0; /* Cambia el color de fondo azul a otro color */
     color: #333; /* Cambia el color del texto si es necesario */
     padding: 10px;
     text-align: center;
 }
 
-h4 {
+.h4 {
     color: white; /* Color de texto blanco */
     background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para legibilidad */
     padding: 5px;
