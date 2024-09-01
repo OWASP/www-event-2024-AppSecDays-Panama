@@ -1,11 +1,10 @@
 ---
 
-title: Keynotes
+title: Speakers
 layout: event_noheader
 permalink: /program/keynotes/
 
 ---
-
 # {{page.title}}
 <br>
 <div class="keynote-full">
@@ -18,6 +17,10 @@ permalink: /program/keynotes/
 		<div class='keynote-info'>
 			<a><strong>{{speaker.name}}</strong></a>
 			<br>
+			{% if speaker.title %}
+				<strong>Title:</strong> {{ speaker.title }}
+				<br>
+			{% endif %}
 			{{speaker.bio}}
 			<br>
 			{% if speaker.subject %}
