@@ -3,13 +3,21 @@
    url: https://ehcgroup.io/
    backgroundSize: 125px
    type: Appsec Sponsor
-
+ - logo: /assets/images/sponsors/teuno.png
+   name: TEUNO
+   url: https://teuno.com/
+   backgroundSize: 125px
+   type: Appsec Sponsor
  - logo: /assets/images/sponsors/layer8.png
    name: Layer8Security
    url: https://www.layer8.pe/
    backgroundSize: 125px
    type: Appsec Sponsor
-
+ - logo: /assets/images/sponsors/dojo.png
+   name: Comunidad DOJO
+   url: https://comunidaddojo.org/
+   backgroundSize: 200px
+   type: Appsec Sponsor
  - logo: /assets/images/sponsors/lugapel.png
    name: Lugapel
    url: https://www.lugapel.com
