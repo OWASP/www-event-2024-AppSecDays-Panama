@@ -2,31 +2,34 @@
    name: Andre Conte
    title: 'Hackeando el Sistema {Sin Internet}.'
    bio: >- 
-        TBD
-#   subject: 
-#   abstract: >-
+        Se que esto es una bio, pero no creo que se pueda describir a un ser vivo por completo con simples palabras. Soy otro humano más, intentando entender por qué estamos aquí, y averiguando si todo esto es real.<br>El primer hacker fue un simio, el segundo fue Sócrates <br>.
+   subject: 
+   abstract: >-
+
  - image: asantacruz.png
    name: Angel Santa Cruz
    title: Modelo de Madurez de Aseguramiento de Software. 
    bio: >- 
         TBD
-#   subject: 
-#   abstract: >
+   subject: 
+   abstract: >
+
  - image: gnina.png
    name: Gonzalo Nina 
    title: 'WebSecurity'
    bio: >- 
          Profesional en el área de seguridad informática con más de 10 años de experiencia, realizando operaciones en equipos de Red Team y de Blue Team en diferentes tipos de sectores empresariales privados y públicos. Tiene como principio que la información debe de compartirse por lo cual es expositor en distintos congresos a nivel Internacional y nacional.        
-#   subject: 
-#   abstract: >
- 
+   subject: 
+   abstract: >
+
  - image: jvargas.png
    name: John Vargas
    title: 'Desmitificando S-SDLC: Enfoques Prácticos para el Desarrollo Seguro.'
    bio: >- 
         TBD
-#   subject: 
-#   abstract: >
+   subject: 
+   abstract: >
+
  - image: jtibaquira.png
    name: Jacobo Tibaquirá
    title: Me fui por bug bounty mobile y esto me pasó.

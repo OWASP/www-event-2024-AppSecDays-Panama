@@ -17,12 +17,15 @@ permalink: /program/keynotes/
 		<div class='keynote-info'>
 			<a><strong>{{speaker.name}}</strong></a>
 			<br>
+				{{speaker.bio}}
+			<br>
+			
 			{% if speaker.title %}
 				<strong>Title:</strong> {{ speaker.title }}
 				<br>
 			{% endif %}
-			{{speaker.bio}}
-			<br>
+			
+			
 			{% if speaker.subject %}
 				<strong>Talk:</strong> {{ speaker.subject}}
 			{% endif %}
