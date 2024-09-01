@@ -77,6 +77,13 @@
         Actualmente Lider del equipo de Blueteam en Layer 8 Security.
 #   subject: 
 #   abstract: >
+ - image: fvela.png
+   name: Fernando Vela
+   title: El rol de la Inteligencia Artificial en la Investigación Forense.
+   bio: >- 
+         Magíster en Seguridad de la Información e Ingeniero en Sistemas Informáticos, con un Diplomado en Seguridad Ofensiva, Investigación en Informática Forense y Ciberderecho. Posee más de 10 años de experiencia en Ciberseguridad, destacándose en roles como investigador en ciberseguridad, inteligencia de amenazas, y en la investigación e implementación de CSIRT en sectores educativos, gubernamentales y financieros, así como en el área de Forense (DFIR). Desde 2015, ha contribuido activamente a los capítulos de OWASP, fortaleciendo la comunidad de seguridad.        
+#   subject: 
+#   abstract: >
  - image: rricapa.png
    name: Ruben Ricapa
    title: 'Taller:Pentesting de Aplicaciones Web'
