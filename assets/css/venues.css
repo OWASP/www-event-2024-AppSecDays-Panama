@@ -5,21 +5,22 @@
 
 .venue-content {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  margin-top: 20px;
+  align-items: flex-start;
+  gap: 20px; /* Añade espacio entre el mapa y la imagen */
 }
 
-.venue-map {
+.venue-map, .venue-description {
   flex: 1;
-  margin-right: 20px;
+  min-width: 300px; /* Asegura que ambos tengan al menos este ancho */
 }
 
-.venue-description {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.venue-map iframe {
+  width: 100%;
+  height: 100%;
+  max-width: 500px; /* Controla el tamaño máximo del mapa */
+  border-radius: 10px;
 }
 
 .venue-description img {
@@ -31,6 +32,7 @@
   margin-top: 10px;
   font-size: 1.1em;
   line-height: 1.5em;
+  text-align: left; /* Alinea el texto a la izquierda */
 }
 
 .venue-details {

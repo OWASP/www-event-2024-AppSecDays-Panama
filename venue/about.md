@@ -1,7 +1,7 @@
 ---
 title: "Venue"
 layout: event_noheader
-permalink: /venue/about/
+permalink: /venue/
 ---
 
 <link rel="stylesheet" href="/assets/css/venue.css">
@@ -14,7 +14,7 @@ permalink: /venue/about/
   
   <div class="venue-content">
     <div class="venue-map">
-      <iframe src="{{ site.data.venue.map_url }}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="{{ site.data.venue.map_url }}" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <div class="venue-description">
       <img src="/assets/images/{{ site.data.venue.image }}" alt="Venue Image">
