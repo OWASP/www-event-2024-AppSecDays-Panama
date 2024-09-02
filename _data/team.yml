@@ -1,18 +1,16 @@
-
-
-staff: 
+staff:
   - name: Diego Gonzalez Arango
     role: Organizador
-    image: team_diego.png
+    image: staff_diego.png
   - name: Ivan Ho
     role: Organizador
-    image: team_Ivan.png
+    image: staff_Ivan.png
   - name: John Vargas
     role: Organizador
-    image: team_john.png
+    image: staff_John.png
   - name: Elysa García
     role: Media Support
-    image: team_elysa.png
+    image: staff_elysa.png
 
 
 # conferenceteam:
