@@ -1,7 +1,7 @@
 ---
 title: "Venue"
 layout: event_noheader
-permalink: /venue/
+permalink: /venue/about/
 ---
 
 <link rel="stylesheet" href="/assets/css/venue.css">
