@@ -8,7 +8,8 @@ permalink: /program/keynotes/
 # {{page.title}}
 <br>
 <div class="keynote-full">
-{% for speaker in site.data.keynotespeakers %}
+{% assign sorted_speakers = site.data.keynotespeakers | sort: "name" %}
+{% for speaker in sorted_speakers %}
 <hr>
 		{% if speaker.name %}
 		<div>
@@ -17,17 +18,14 @@ permalink: /program/keynotes/
 		<div class='keynote-info'>
 			<a><strong>{{speaker.name}}</strong></a>
 			<br>
-				{{speaker.bio}}
-			<br>
-			
 			{% if speaker.title %}
-				<strong>Charla:</strong> {{ speaker.title }}
+				<strong>Title:</strong> {{ speaker.title }}
 				<br>
 			{% endif %}
-
-			
+			{{speaker.bio}}
+			<br>
 			{% if speaker.subject %}
-				<strong>Taller:</strong> {{ speaker.subject}}
+				<strong>Talk:</strong> {{ speaker.subject}}
 			{% endif %}
 			<br>
 			{% if speaker.abstract %}
