@@ -1,0 +1,15 @@
+title: "Venue"
+location_name: "Universidad Católica Santa María La Antigua (USMA)"
+address: "Vía Ricardo J. Alfaro, Panamá"
+map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252164.87948494675!2d-79.81502578980974!3d9.056810351733628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca82e0841d1c3%3A0x3feb8502267a3b14!2sUniversidad%20Cat%C3%B3lica%20Santa%20Mar%C3%ADa%20La%20Antigua!5e0!3m2!1ses!2spa!4v1724652026194!5m2!1ses!2spa"
+description: >-
+  La Universidad Católica Santa María La Antigua (USMA) es un reconocido centro educativo que ofrece instalaciones modernas y cómodas para el desarrollo de conferencias y talleres. 
+  Los talleres se llevarán a cabo en diversas salas especializadas, mientras que las charlas principales se realizarán en el auditorio Benjamín Ayechu.
+image: "usma_venue.png"
+sections:
+  - title: "Auditorio Benjamín Ayechu"
+    description: "El auditorio Benjamín Ayechu, con capacidad para más de 300 personas, es el lugar principal para las charlas de este evento. Equipado con tecnología audiovisual de última generación, este auditorio ofrece el ambiente perfecto para presentaciones magistrales y discusiones."
+    image: "auditorio_benjamin_ayechu.png"
+  - title: "Salas de Talleres"
+    description: "Las salas de talleres están equipadas con pantallas digitales y asientos cómodos para grupos de hasta 50 personas, proporcionando un ambiente propicio para el aprendizaje práctico. <br> Es necesario llevar equipos para los talleres."
+    image: "talleres.png"
