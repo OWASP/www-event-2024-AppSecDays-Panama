@@ -37,7 +37,8 @@
         Ingeniero de Sistemas y Telecomunicaciones con más de 15 años de experiencia en ciberseguridad. Ha trabajado en pentesting, incluyendo evaluaciones en entornos móviles, IoT y OT, para compañías en todo el mundo, abarcando regiones como Japón, Medio Oriente, Reino Unido, Europa, y América. Su experiencia se extiende a múltiples sectores, incluyendo automotriz, banca, ISPs, y desarrolladores tecnológicos, tanto en industrias IT como OT. Además, Jacobo ha desempeñado roles en análisis de código y ha sido ponente en destacados eventos de hacking como Black Hat Arsenal en Las Vegas, Bugcon en México, y el OWASP LATAM Tour en diversas ciudades. <br> Actualmente, Jacobo es Senior Cybersecurity Researcher en Fortra, donde continúa contribuyendo al campo de la ciberseguridad a través de la investigación y el desarrollo de nuevas metodologías y técnicas para la protección de sistemas críticos.
         
    subject: 
-#  abstract: >-           Es una recuento de mi proceso cuando quise hacer bug bounty en tecnologías mobile, es un recorrido por mis hallazgos y desafíos a la hora de buscar fallos y optimizar mi tiempo, lo cual termino en el desarrollo de una tool que me permitía realizar scans de la superficie de ataque en móviles, inicialmente en Android. 
+#  abstract: >-
+#              Es una recuento de mi proceso cuando quise hacer bug bounty en tecnologías mobile, es un recorrido por mis hallazgos y desafíos a la hora de buscar fallos y optimizar mi tiempo, lo cual termino en el desarrollo de una tool que me permitía realizar scans de la superficie de ataque en móviles, inicialmente en Android. 
 
  - image: ndeavila.png
    name: Nahum Deavila
@@ -83,7 +84,7 @@
    name: Luis Ponce
    title: Cómo trabajar con millones de líneas de Logs y no morir en el intento.
    bio: >- 
-        Es un destacado profesional en ciberseguridad, con experiencia en análisis forense y manejo de incidentes. Actualmente, es líder del equipo de Blue Team en Layer 8 Security, donde se encarga de fortalecer la seguridad de infraestructuras críticas a través de la identificación y mitigación de amenazas cibernéticas. Su experiencia abarca la implementación de medidas de defensa avanzadas, así como la gestión efectiva de incidentes de seguridad en sectores clave como la banca y telecomunicaciones. <br> Además de su rol en Layer 8 Security, Luis es el fundador del Cybersecurity UTEC Club y es un miembro activo del capítulo de OWASP en Perú. Ha sido ponente en eventos internacionales de ciberseguridad, incluyendo OWASP Panama Tour, donde ha compartido su experiencia en metodologías de seguridad defensiva y en el fortalecimiento de la resiliencia de las organizaciones frente a amenazas avanzadas.
+         Es un destacado profesional en ciberseguridad, con experiencia en análisis forense y manejo de incidentes. Actualmente, es líder del equipo de Blue Team en Layer 8 Security, donde se encarga de fortalecer la seguridad de infraestructuras críticas a través de la identificación y mitigación de amenazas cibernéticas. Su experiencia abarca la implementación de medidas de defensa avanzadas, así como la gestión efectiva de incidentes de seguridad en sectores clave como la banca y telecomunicaciones. <br> Además de su rol en Layer 8 Security, Luis es el fundador del Cybersecurity UTEC Club y es un miembro activo del capítulo de OWASP en Perú. Ha sido ponente en eventos internacionales de ciberseguridad, incluyendo OWASP Panama Tour, donde ha compartido su experiencia en metodologías de seguridad defensiva y en el fortalecimiento de la resiliencia de las organizaciones frente a amenazas avanzadas.
 
    subject: 
 #  abstract: >
@@ -100,16 +101,16 @@
    name: Ruben Ricapa
    title: 
    bio: >- 
-        Pentester especializado en hacking de aplicaciones web y APIs. Actualmente, se desempeña como Pentester Principal en Layer 8 Security y es un miembro activo de ACECOM en la Universidad Nacional de Ingeniería (UNI). Posee certificaciones destacadas como CEH (Certified Ethical Hacker) y eWPTx (eLearnSecurity Web Application Penetration Tester eXtreme). Además, ha logrado posiciones destacadas en competencias internacionales, como el C|EH Compete Challenge 2024. Rubén también participa como expositor en talleres especializados, donde comparte sus experiencias y conocimientos en el hacking de aplicaciones web, móviles y APIs.
-   subject: Pentesting de Aplicaciones Web 
+         Pentester especializado en hacking de aplicaciones web y APIs. Actualmente, se desempeña como Pentester Principal en Layer 8 Security y es un miembro activo de ACECOM en la Universidad Nacional de Ingeniería (UNI). Posee certificaciones destacadas como CEH (Certified Ethical Hacker) y eWPTx (eLearnSecurity Web Application Penetration Tester eXtreme). Además, ha logrado posiciones destacadas en competencias internacionales, como el C|EH Compete Challenge 2024. Rubén también participa como expositor en talleres especializados, donde comparte sus experiencias y conocimientos en el hacking de aplicaciones web, móviles y APIs.
+   subject: 'Pentest and Chill: Web and API Hacking, All Action, No Talk'
 #  abstract: >
 
  - image: grodriguez.png
    name: Gabriel Rodriguez
    title: 
    bio: >- 
-          Pentester con experiencia y especialización en hacking de aplicaciones web y APIs. Actualmente, se desempeña como Pentester Principal y ha obtenido certificaciones destacadas en el campo, incluyendo eWPTXv2 (Web Application Penetration Tester eXtreme), eCPPTv2 (Certified Professional Penetration Tester), y CEH Master (Certified Ethical Hacker). Gabriel ha demostrado su habilidad en competencias internacionales de ciberseguridad, logrando posiciones destacadas en el C|EH Compete Challenge 2024. Además, participa activamente como expositor en eventos de ciberseguridad y es un miembro activo de Cibersec Uni, donde comparte sus conocimientos y estrategias avanzadas en hacking de aplicaciones​
-   subject: Pentesting de Aplicaciones Web 
+         Pentester con experiencia y especialización en hacking de aplicaciones web y APIs. Actualmente, se desempeña como Pentester Principal y ha obtenido certificaciones destacadas en el campo, incluyendo eWPTXv2 (Web Application Penetration Tester eXtreme), eCPPTv2 (Certified Professional Penetration Tester), y CEH Master (Certified Ethical Hacker). Gabriel ha demostrado su habilidad en competencias internacionales de ciberseguridad, logrando posiciones destacadas en el C|EH Compete Challenge 2024. Además, participa activamente como expositor en eventos de ciberseguridad y es un miembro activo de Cibersec Uni, donde comparte sus conocimientos y estrategias avanzadas en hacking de aplicaciones​
+   subject: 'Pentest and Chill: Web and API Hacking, All Action, No Talk'
 #  abstract: >
 
  - image: clima.png
@@ -119,7 +120,7 @@
           Ingeniero de Sistemas y Chief Security Officer en Ethical Hacking Consultores Panamá, con más de 7 años de experiencia en seguridad informática en diferentes países de Centroamérica. Cristhian cuenta con diplomados en Seguridad Informática y Educación Superior, además de certificaciones como Certified Ethical Hacker (ECCouncil) y Certified Professional Pentester (EHCGroup). Ha desempeñado un papel clave en la protección de infraestructuras críticas y es instructor de varios cursos especializados en seguridad informática, compartiendo su experiencia y conocimientos con la próxima generación de profesionales en el campo.
    subject: Reversing de aplicaciones android
 #  abstract: >
-          El curso de reversing de aplicaciones Android te enseñará a configurar un entorno de análisis estático y dinámico para detectar vulnerabilidades y aplicaciones maliciosas. Aprenderás sobre la arquitectura y componentes de Android, desempaquetar aplicaciones, interceptar tráfico de dispositivos y realizar análisis estático y dinámico. 
+#          El curso de reversing de aplicaciones Android te enseñará a configurar un entorno de análisis estático y dinámico para detectar vulnerabilidades y aplicaciones maliciosas. Aprenderás sobre la arquitectura y componentes de Android, desempaquetar aplicaciones, interceptar tráfico de dispositivos y realizar análisis estático y dinámico. 
 
 
  - image: jcorrea.png
