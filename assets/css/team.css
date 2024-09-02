@@ -2,24 +2,30 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px; /* Espacio entre los miembros del equipo */
+  gap: 20px; /* Espacio entre las tarjetas */
   padding: 20px;
 }
 
 .team-card {
-  flex: 0 1 200px; /* Ajusta el ancho según tus necesidades */
+  flex: 0 1 250px; /* Ancho fijo para cada tarjeta */
   text-align: center;
-  overflow: hidden; /* Asegura que el contenido no se salga del contenedor */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra opcional para resaltar */
-  border-radius: 10px; /* Bordes redondeados */
-  background-color: #fff; /* Fondo blanco para contraste */
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 400px; /* Altura fija para todas las tarjetas */
 }
 
 .team-card img {
   width: 100%;
-  height: auto; /* Asegura que la imagen mantenga su proporción */
-  object-fit: cover; /* Ajusta la imagen para que cubra el contenedor sin distorsión */
-  border-radius: 10px 10px 0 0; /* Redondea la parte superior de la imagen */
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+  max-height: 250px; /* Limitar la altura de la imagen */
 }
 
 .team-info {
