@@ -10,15 +10,15 @@
    name: Angel Santa Cruz
    title: Modelo de Madurez de Aseguramiento de Software. 
    bio: >- 
-        TBD
-   subject: 
+        Experto en seguridad del software con un enfoque en el aseguramiento del Ciclo de Vida del Software (SDLC). Ha liderado la implementación de metodologías ágiles y DevOps seguras en diversas organizaciones, fortaleciendo la protección de datos y mejorando la resiliencia de sistemas críticos. Su experiencia incluye la gestión de programas de seguridad en proyectos de gran escala, logrando mejoras significativas en la seguridad y eficiencia operativa. Ángel es un activo colaborador en la comunidad de ciberseguridad, compartiendo su conocimiento como ponente en eventos internacionales. Su enfoque en la seguridad del software y la protección de datos le ha permitido posicionarse como un referente en la industria.
+   subject: Prácticas de seguridad en SDLC. Nivel Intermedio
    abstract: >
 
  - image: gnina.png
    name: Gonzalo Nina 
    title: 'WebSecurity'
    bio: >- 
-         Profesional en el área de seguridad informática con más de 10 años de experiencia, realizando operaciones en equipos de Red Team y de Blue Team en diferentes tipos de sectores empresariales privados y públicos. Tiene como principio que la información debe de compartirse por lo cual es expositor en distintos congresos a nivel Internacional y nacional.        
+         Ingeniero en Sistemas Informáticos con especialización en Seguridad Informática y más de 10 años de experiencia en ciberseguridad. Actualmente, se desempeña como CTO de Ethical Hacking Consultores, liderando proyectos en sectores gubernamentales, bancarios, y empresas estratégicas en América Latina. Su enfoque se centra en ofrecer soluciones de seguridad robustas para proteger infraestructuras críticas y datos sensibles. Además, es un profesional con experiencia tanto en operaciones de Red Team como de Blue Team en sectores privados y públicos. Gonzalo es un firme defensor de la compartición de conocimientos, lo que lo ha llevado a ser un expositor reconocido en congresos nacionales e internacionales sobre ciberseguridad, abordando temas como análisis de seguridad web y técnicas de protección contra ciberamenazas.
    subject: 
    abstract: >
 
@@ -26,99 +26,115 @@
    name: John Vargas
    title: 'Desmitificando S-SDLC: Enfoques Prácticos para el Desarrollo Seguro.'
    bio: >- 
-        TBD
+        Con más de 15 años de experiencia en ciberseguridad, John Vargas se ha destacado como Gerente de Servicios de Ciberseguridad, liderando proyectos en seguridad ofensiva y defensiva en diversas industrias. Su experiencia abarca la evaluación y remediación de vulnerabilidades en infraestructuras críticas y aplicaciones web, así como la implementación de metodologías de desarrollo seguro basadas en los estándares de OWASP. Como líder del capítulo de OWASP Lima, John ha impulsado numerosas iniciativas para fortalecer la seguridad de las aplicaciones en la industria, promoviendo una cultura de seguridad a través de la educación y la colaboración. <br> John es también un activo colaborador en la comunidad de ciberseguridad, participando y apoyando eventos nacionales e internacionales. Su compromiso con la difusión del conocimiento lo ha llevado a ser un ponente regular en conferencias y talleres, donde comparte su experiencia y contribuye al desarrollo de la seguridad de la información en la región​
    subject: 
    abstract: >
 
  - image: jtibaquira.png
    name: Jacobo Tibaquirá
    title: Me fui por bug bounty mobile y esto me pasó.
-   bio: >- 
+   bio: >-
+        Ingeniero de Sistemas y Telecomunicaciones con más de 15 años de experiencia en ciberseguridad. Ha trabajado en pentesting, incluyendo evaluaciones en entornos móviles, IoT y OT, para compañías en todo el mundo, abarcando regiones como Japón, Medio Oriente, Reino Unido, Europa, y América. Su experiencia se extiende a múltiples sectores, incluyendo automotriz, banca, ISPs, y desarrolladores tecnológicos, tanto en industrias IT como OT. Además, Jacobo ha desempeñado roles en análisis de código y ha sido ponente en destacados eventos de hacking como Black Hat Arsenal en Las Vegas, Bugcon en México, y el OWASP LATAM Tour en diversas ciudades. <br> Actualmente, Jacobo es Senior Cybersecurity Researcher en Fortra, donde continúa contribuyendo al campo de la ciberseguridad a través de la investigación y el desarrollo de nuevas metodologías y técnicas para la protección de sistemas críticos.
         
-#   subject: 
-#   abstract: >-
+   subject: 
+   abstract: >-
+          Es una recuento de mi proceso cuando quise hacer bug bounty en tecnologías mobile, es un recorrido por mis hallazgos y desafíos a la hora de buscar fallos y optimizar mi tiempo, lo cual termino en el desarrollo de una tool que me permitía realizar scans de la superficie de ataque en móviles, inicialmente en Android. 
+
  - image: ndeavila.png
    name: Nahum Deavila
    title: 'Anatomía de un Ciberataque: perspectivas de un Hacker.'
    bio: >- 
-        Actualmente Director de Ciberseguridad y Ciberinteligencia de CIBER-TEC. Consultor en Ciberseguridad con 7 años de experiencia asesorando a organizaciones gubernamentales y sector privado en proyectos que incluyen Pentesting, Ciberinteligencia, Investigación de Cibercrimen trasnacional, respuesta a incidentes, ciberdefensa a infraestructuras criticas y análisis de finanzas criminales en Blockchain. Formador gubernamental para fuerzas militares y policiales de países de latinoamerica incluyendo Colombia, Mexico, peru, ecuador, panama, costa rica y brasil para el desarrollo de capacidades técnicas de estas instituciones. Conferencista, escritor e investigador en Ciberseguridad.
-#   subject: 
-#   abstract: >
+        Director de Ciberseguridad y Ciberinteligencia en CIBER-TEC, con 7 años de experiencia en asesoría a organizaciones gubernamentales y del sector privado. Especialista en Pentesting, Ciberinteligencia, investigación de ciberdelitos transnacionales, respuesta a incidentes, y ciberdefensa de infraestructuras críticas. Ha trabajado en proyectos que involucran análisis de finanzas criminales en Blockchain. <br> Nahum es formador gubernamental para fuerzas militares y policiales en varios países de Latinoamérica, incluyendo Colombia, México, Perú, Ecuador, Panamá, Costa Rica, y Brasil. Además, es conferencista, escritor e investigador en temas de ciberseguridad.
+   subject: 
+   abstract: >
+
  - image: esarria.png
    name: Eduardo Sarria
    title: 'Revisión Sistemática y Exhaustiva de la Seguridad de una API REST'
    bio: >- 
         Experto en ciberseguridad con una sólida formación académica en Ciencias de la Computación por la Universidad Nacional de Ingeniería de Lima, Perú, y múltiples certificaciones internacionales como CRTP, BSCP, eWPTXv2, eCPPTv2, y CEH - Practical. Actualmente trabaja como Senior Ethical Hacker en Falabella realizando pruebas de vulnerabilidades en microservicios y APIs, además de asesorar sobre soluciones de seguridad.
-        
-#   subject: 
-#   abstract: >
+   subject: 
+   abstract: >
+
  - image: lespinoza.png
    name: Leandro Espinoza
    title: 'Ciberseguridad: Hacking Ciberataques y Mitigación en una era digital.'
    bio: >- 
-        
-#   subject: 
-#   abstract: >
+          Maestría en Gerencia Informática con énfasis en Seguridad Computacional y más de 15 años de experiencia en Ciberseguridad. Ha desempeñado roles clave como Subdirector Nacional de Tecnología Informática y Comunicaciones en el Ministerio de la Presidencia de Panamá y como Coordinador de la Academia de Redes Cisco en la Universidad Tecnológica de Panamá. También es Instructor CCNA CISCO y miembro del Comité de Interoperabilidad y Seguridad del Estado Panameño. <br> Leandro ha sido expositor nacional e internacional en temas de ciberseguridad, participando en eventos destacados como el Congreso Internacional de Ingeniería y Arquitectura en Perú y el Mes de la Ciberseguridad, organizado por la Embajada de EE.UU. en Panamá. Además, ha recibido varios premios de excelencia como instructor de CISCO. Actualmente, combina su rol como docente en diversas universidades con su labor de asesor y consultor en seguridad informática.
+   subject: 
+   abstract: >
+
  - image: mferreira.png
    name: Matias Ferreira
    title: 'OWASP API TOp 10 y el contexto actual de seguridad en software.'
    bio: >- 
         Actualmente trabaja como Consultor Senior en Ciberseguridad, Lugapel desde el 2022, Ingeniero en Ciencias de la Computación - Universidad Católica del Uruguay. Speaker en conferencias de Ciberseguridad.
-#   subject: 
-#   abstract: >
+   subject: 
+   abstract: >
+
  - image: cganoza.png
    name: Carlos Ganoza
    title: 'Biometría Facial: Un enfoque de seguridad.'
    bio: >- 
-        Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado nacional e internacional. Actualmente Lidero la estrategia de ciberseguridad de una importante institución financiera del Perú, soy Chapter Leader del capítulo de OWASP Lima, y colaboro activamente en  proyectos de código abierto sobre seguridad.
-#   subject: 
-#   abstract: >
+        Especialista en InfoSec e Ingeniería de Software con más de 13 años de experiencia en el mercado nacional e internacional. Actualmente lidera la estrategia de ciberseguridad de una importante institución financiera en Perú y es Chapter Leader del capítulo de OWASP Lima, donde colabora activamente en proyectos de código abierto enfocados en la seguridad. <br>Carlos ha participado en diversas iniciativas y conferencias internacionales, compartiendo su expertise en ciberseguridad y promoviendo buenas prácticas en la industria. Su trabajo se centra en fortalecer la seguridad de las organizaciones a través de la innovación y la colaboración en la comunidad tecnológica.
+   subject: 
+   abstract: >
+
  - image: lponce.png
    name: Luis Ponce
    title: Cómo trabajar con millones de líneas de Logs y no morir en el intento.
    bio: >- 
-        Actualmente Lider del equipo de Blueteam en Layer 8 Security.
-#   subject: 
-#   abstract: >
+        Es un destacado profesional en ciberseguridad, con experiencia en análisis forense y manejo de incidentes. Actualmente, es líder del equipo de Blue Team en Layer 8 Security, donde se encarga de fortalecer la seguridad de infraestructuras críticas a través de la identificación y mitigación de amenazas cibernéticas. Su experiencia abarca la implementación de medidas de defensa avanzadas, así como la gestión efectiva de incidentes de seguridad en sectores clave como la banca y telecomunicaciones. <br> Además de su rol en Layer 8 Security, Luis es el fundador del Cybersecurity UTEC Club y es un miembro activo del capítulo de OWASP en Perú. Ha sido ponente en eventos internacionales de ciberseguridad, incluyendo OWASP Panama Tour, donde ha compartido su experiencia en metodologías de seguridad defensiva y en el fortalecimiento de la resiliencia de las organizaciones frente a amenazas avanzadas.
+
+   subject: 
+   abstract: >
+
  - image: fvela.png
    name: Fernando Vela
    title: El rol de la Inteligencia Artificial en la Investigación Forense.
    bio: >- 
          Magíster en Seguridad de la Información e Ingeniero en Sistemas Informáticos, con un Diplomado en Seguridad Ofensiva, Investigación en Informática Forense y Ciberderecho. Posee más de 10 años de experiencia en Ciberseguridad, destacándose en roles como investigador en ciberseguridad, inteligencia de amenazas, y en la investigación e implementación de CSIRT en sectores educativos, gubernamentales y financieros, así como en el área de Forense (DFIR). Desde 2015, ha contribuido activamente a los capítulos de OWASP, fortaleciendo la comunidad de seguridad.        
-#   subject: 
-#   abstract: >
+   subject: 
+   abstract: >
+
  - image: rricapa.png
    name: Ruben Ricapa
-   title: 'Taller:Pentesting de Aplicaciones Web'
+   title: 
    bio: >- 
-        Actualmente Pentester en Layer 8 Security.
-#   subject: 
-#   abstract: >
+        Rubén Ricapa es un experto en ciberseguridad, especializado en hacking de aplicaciones web y APIs. Actualmente, se desempeña como Pentester Principal en Layer 8 Security y es un miembro activo de ACECOM en la Universidad Nacional de Ingeniería (UNI). Rubén posee certificaciones destacadas como CEH (Certified Ethical Hacker) y eWPTx (eLearnSecurity Web Application Penetration Tester eXtreme). Además, participa como expositor en talleres especializados, donde comparte sus experiencias y conocimientos en el hacking de aplicaciones web, móviles y APIs
+   subject: Pentesting de Aplicaciones Web 
+   abstract: >
+
  - image: grodriguez.png
    name: Gabriel Rodriguez
-   title: 'Taller:Pentesting de Aplicaciones Web'
+   title: 
    bio: >- 
           Actualmente Pentester en Layer 8 Security.
-  #   subject: 
-  #   abstract: >
+   subject: Pentesting de Aplicaciones Web 
+   abstract: >
+
  - image: clima.png
    name: Cristhian Lima
-   title: 'Biometría Facial: Un enfoque de seguridad.'
+   title: 
    bio: >- 
-          Ingeniero de Sistemas, Chief Security Officier en Ethical Hacking Consultores Panamá, diplomados en Seguridad informática y Diplomado en Educación Superior, Certified Ethical Hacker - ECCouncil, Certified Professional Pentester – EHCGroup. Más de 7 años de experiencia  en Seguridad informática en diferentes países de Centroamérica e Instructor de diferentes cursos enfocados en seguridad informática. 
-  #   subject: 
-  #   abstract: >
+          Ingeniero de Sistemas y Chief Security Officer en Ethical Hacking Consultores Panamá, con más de 7 años de experiencia en seguridad informática en diferentes países de Centroamérica. Cristhian cuenta con diplomados en Seguridad Informática y Educación Superior, además de certificaciones como Certified Ethical Hacker (ECCouncil) y Certified Professional Pentester (EHCGroup). Ha desempeñado un papel clave en la protección de infraestructuras críticas y es instructor de varios cursos especializados en seguridad informática, compartiendo su experiencia y conocimientos con la próxima generación de profesionales en el campo.
+   subject: Reversing de aplicaciones android
+   abstract: >
+          El curso de reversing de aplicaciones Android te enseñará a configurar un entorno de análisis estático y dinámico para detectar vulnerabilidades y aplicaciones maliciosas. Aprenderás sobre la arquitectura y componentes de Android, desempaquetar aplicaciones, interceptar tráfico de dispositivos y realizar análisis estático y dinámico. 
+
+
  - image: jcorrea.png
    name: John Correa
-   title: 'Biometría Facial: Un enfoque de seguridad.'
+   title: 
    bio: >- 
-          TBD
-  #   subject: 
-  #   abstract: >
+          John Correa es un profesional en electrónica con un doctorado en Sistemas de Información de la Universidad de las Américas y del Caribe en México. Es un experto en seguridad de la información y las comunicaciones, con un enfoque en la implementación de modelos estratégicos de ciberseguridad. Además, es un Cyberjudicial Expert Perito Ciberjudicial certificado por The Center for Cybercrime Investigation & Cybersecurity (Center for CIC) y un Hacker Ético. <br> John posee una amplia gama de certificaciones que incluyen, entre otras, Auditor Líder en ISO-IEC 27001:2013/2022, ISO 22301, ISO 27032, y auditor interno en ISO 20000-1. También está certificado en seguridad ofensiva y defensiva, y ha completado formaciones avanzadas en defensa cibernética, hacking ético, y forense digital. Además, cuenta con certificaciones en TOGAF, ITIL, Scrum, y arquitectura empresarial, lo que complementa su perfil técnico con una sólida comprensión de la gestión y estrategia organizacional en el ámbito de la ciberseguridad.
+   subject: Análisis forense de nodos y servicios en la Deep Web. Nivel Medio.
+   abstract: >
+
  - image: rvalero.png
    name: Rodrigo Valero
-   title: 'Biometría Facial: Un enfoque de seguridad.'
+   title: 
    bio: >- 
-          tbd
-  #   subject: 
-  #   abstract: >
+          Rodrigo Valero es un especialista técnico en ciberseguridad y redes, con más de 15 años de experiencia en roles de arquitecto, ingeniero y especialista en soporte técnico. Ha implementado proyectos para empresas en diversos sectores, incluyendo infraestructura crítica, Oil & Gas, retail, logística y transporte, seguridad nacional, finanzas, gobierno, e integradores tecnológicos, principalmente en Colombia y América Latina. Además de su experiencia en ciberseguridad y redes, Rodrigo está en constante aprendizaje en seguridad en la nube, aplicaciones y seguridad en entornos OT (Operational Technology), lo que refuerza su enfoque multidisciplinario en la protección de infraestructuras tecnológicas críticas.
+   subject: Practical implementation of SECOPS & CTI in Defensive Security Architectures.
+   abstract: >

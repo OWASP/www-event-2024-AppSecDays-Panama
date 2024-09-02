@@ -21,13 +21,13 @@ permalink: /program/keynotes/
 			<br>
 			
 			{% if speaker.title %}
-				<strong>Title:</strong> {{ speaker.title }}
+				<strong>Charla:</strong> {{ speaker.title }}
 				<br>
 			{% endif %}
-			
+
 			
 			{% if speaker.subject %}
-				<strong>Talk:</strong> {{ speaker.subject}}
+				<strong>Taller:</strong> {{ speaker.subject}}
 			{% endif %}
 			<br>
 			{% if speaker.abstract %}
