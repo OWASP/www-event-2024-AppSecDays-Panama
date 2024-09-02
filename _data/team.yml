@@ -1,13 +1,14 @@
 #staff:
   - name: Diego Gonzalez Arango
     role: Organizador
+    role: Organizador
     image: staff_diego.png
   - name: Ivan Ho
     role: Organizador
-    image: staff_Ivan.png
+    image: staff_ivan.png
   - name: John Vargas
     role: Organizador
-    image: staff_John.png
+    image: staff_john.png
   - name: Elysa García
     role: Media Support
     image: staff_elysa.png
