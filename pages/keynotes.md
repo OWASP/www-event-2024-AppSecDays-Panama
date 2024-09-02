@@ -9,7 +9,7 @@ permalink: /program/keynotes/
 <br>
 <div class="keynote-full">
 <!-- {% assign sorted_speakers = site.data.keynotespeakers | sort: "name" %} -->
-{% assign sorted_speakers = site.data.keynotespeakers | sort: "name" %}
+{% assign shuffled_speakers = site.data.keynotespeakers | shuffle %}
 
 {% for speaker in sorted_speakers %}
 <hr>

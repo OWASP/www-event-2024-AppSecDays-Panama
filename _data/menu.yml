@@ -7,8 +7,8 @@
        external: true
      - title: Speakers
        url : /program/keynotes/
-     - title: Training
-       url : /trainings/
+#     - title: Training
+#       url : /trainings/
      - title: Venue
        url : /venue/about/
 #    - title: Event Images
