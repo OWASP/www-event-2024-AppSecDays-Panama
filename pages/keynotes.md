@@ -20,14 +20,14 @@ permalink: /program/keynotes/
 		<div class='keynote-info'>
 			<a><strong>{{speaker.name}}</strong></a>
 			<br>
-			{% if speaker.title %}
-				<strong>Title:</strong> {{ speaker.title }}
-				<br>
-			{% endif %}
 			{{speaker.bio}}
 			<br>
+			{% if speaker.title %}
+				<strong>Charla:</strong> {{ speaker.title }}
+				<br>
+			{% endif %}
 			{% if speaker.subject %}
-				<strong>Talk:</strong> {{ speaker.subject}}
+				<strong>Taller:</strong> {{ speaker.subject}}
 			{% endif %}
 			<br>
 			{% if speaker.abstract %}
