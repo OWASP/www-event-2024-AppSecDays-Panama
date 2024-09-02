@@ -8,7 +8,9 @@ permalink: /program/keynotes/
 # {{page.title}}
 <br>
 <div class="keynote-full">
+<!-- {% assign sorted_speakers = site.data.keynotespeakers | sort: "name" %} -->
 {% assign sorted_speakers = site.data.keynotespeakers | sort: "name" %}
+
 {% for speaker in sorted_speakers %}
 <hr>
 		{% if speaker.name %}
