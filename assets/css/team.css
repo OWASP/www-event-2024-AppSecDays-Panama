@@ -1,44 +1,38 @@
 .team-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-  }
-  
-  .team-card {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s, box-shadow 0.3s;
-    width: 250px;
-    text-align: center;
-  }
-  
-  .team-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  }
-  
-  .team-image {
-    background-size: cover;
-    background-position: center;
-    height: 200px;
-  }
-  
-  .team-info {
-    padding: 20px;
-  }
-  
-  .team-info h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-    color: #333;
-  }
-  
-  .team-info p {
-    font-size: 16px;
-    color: #777;
-  }
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Espacio entre los miembros del equipo */
+  padding: 20px;
+}
+
+.team-card {
+  flex: 0 1 200px; /* Ajusta el ancho según tus necesidades */
+  text-align: center;
+  overflow: hidden; /* Asegura que el contenido no se salga del contenedor */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra opcional para resaltar */
+  border-radius: 10px; /* Bordes redondeados */
+  background-color: #fff; /* Fondo blanco para contraste */
+}
+
+.team-card img {
+  width: 100%;
+  height: auto; /* Asegura que la imagen mantenga su proporción */
+  object-fit: cover; /* Ajusta la imagen para que cubra el contenedor sin distorsión */
+  border-radius: 10px 10px 0 0; /* Redondea la parte superior de la imagen */
+}
+
+.team-info {
+  padding: 10px;
+}
+
+.team-info h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.team-info p {
+  margin: 5px 0 0;
+  font-size: 1em;
+  color: #666;
+}

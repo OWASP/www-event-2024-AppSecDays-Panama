@@ -1,22 +1,21 @@
 ---
-title: Appsec Day Panama Team
+title: "Appsec Day Panama Team"
 layout: event_noheader
 permalink: /team/
 ---
 
-# {{ page.title }}
-
 <link rel="stylesheet" href="/assets/css/team.css">
 
-<br>
+# {{page.title}}
+
 <div class="team-container">
   {% for member in site.data.team %}
-  <div class="team-card">
-    <div class="team-image" style="background-image: url('/assets/images/team/{{member.image}}');"></div>
-    <div class="team-info">
-      <h3>{{ member.name }}</h3>
-      <p>{{ member.role }}</p>
+    <div class="team-card">
+      <img src="/assets/images/team/{{ member.image }}" alt="{{ member.name }}">
+      <div class="team-info">
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.role }}</p>
+      </div>
     </div>
-  </div>
   {% endfor %}
 </div>
